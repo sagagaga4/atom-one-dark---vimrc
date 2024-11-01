@@ -1,2 +1,2 @@
 It is very beautifl and soothing
-![Screenshot from 2024-11-01 13-13-12](https://github.com/user-attachments/assets/d0fec9d9-e000-47e0-b820-a22ef8d652b6)
+![Screenshot from 2024-11-01 13-14-10](https://github.com/user-attachments/assets/f3fb582e-a509-4bf6-b2b6-f89d1f0ec9fb)
