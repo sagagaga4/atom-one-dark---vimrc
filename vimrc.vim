@@ -10,6 +10,7 @@ Plug 'vim-airline/vim-airline-themes'  " Vim Airline Themes
 call plug#end()
 
 " General settings
+
 syntax on
 syntax enable
 filetype on
